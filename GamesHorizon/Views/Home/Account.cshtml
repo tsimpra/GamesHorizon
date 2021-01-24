@@ -1,0 +1,151 @@
+﻿@model GamesHorizon.Models.GameUser
+
+@{
+    ViewBag.Title = "Account";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Account</h2>
+
+<div>
+    <h4>GameUser</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Balance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Balance)
+            $
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Update Profile", "UpdateUserDetail")
+</p>
+<p>
+    @Html.ActionLink("Add Money to your Balance", "UpdateBalance")
+</p>
+
+@if (Model.GamesOnSale.Count > 0)
+{
+
+<hr />
+<div>
+    <h4>Games On Sale</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GamesOnSale[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GamesOnSale[0].CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GamesOnSale[0].Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GamesOnSale[0].GameConsole)
+            </th>
+            <th></th>
+        </tr>
+
+
+        @foreach (var item in Model.GamesOnSale)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Year)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GameConsole)
+                </td>
+            </tr>
+
+        }
+
+    </table>
+</div>
+}
+
+@if (Model.GamesBought.Count > 0)
+{
+
+    <hr />
+    <div>
+        <h4>Games Bought</h4>
+        <hr />
+        <table class="table">
+            <tr>
+                <th>
+                    Name
+                </th>
+            </tr>
+            @foreach (var item in Model.GamesBought)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}
+
+@if (Model.GamesSold.Count > 0)
+{
+    <hr />
+    <div>
+        <h4>Games Sold</h4>
+        <hr />
+        <table class="table">
+            <tr>
+                <th>
+                    Name
+                </th>
+            </tr>
+            @foreach (var item in Model.GamesSold)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}

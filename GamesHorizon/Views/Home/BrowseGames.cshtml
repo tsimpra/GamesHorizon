@@ -1,0 +1,63 @@
+﻿@model IEnumerable<GamesHorizon.Models.Game>
+
+@{
+    ViewBag.Title = "BrowseGames";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>BrowseGames</h2>
+
+<br />
+@using (Html.BeginForm("BrowseGames", "Home", FormMethod.Get))
+{
+@Html.TextBox("search")<input type="submit" value="Search" />
+}
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GameConsole)
+        </th>
+        <th></th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GameConsole)
+            </td>
+            <td>
+                @Html.ActionLink("Buy Game", "BuyGame", new { id = item.Id })
+            </td>
+        </tr>
+
+    }
+
+</table>
+<hr />
+
+<p align="right">
+    @Html.ActionLink("Sell a game", "AddGame")
+</p>

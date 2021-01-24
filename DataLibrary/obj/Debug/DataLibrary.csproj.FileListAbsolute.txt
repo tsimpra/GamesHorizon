@@ -1,0 +1,18 @@
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\vasilis\source\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\DataLibrary\obj\Debug\DataLibrary.pdb

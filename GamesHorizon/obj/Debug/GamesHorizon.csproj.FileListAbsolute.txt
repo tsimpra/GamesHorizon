@@ -1,0 +1,224 @@
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.dll.config
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.pdb
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.exe
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.exe.config
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.rsp
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.exe
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.exe.config
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.rsp
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.AppContext.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Console.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.Compression.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Net.Http.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.ValueTuple.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.exe
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.exe.config
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.rsp
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\VBCSCompiler.exe
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Antlr3.Runtime.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.SqlServer.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Newtonsoft.Json.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Owin.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Helpers.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Mvc.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Optimization.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Razor.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Razor.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\WebGrease.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Helpers.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Mvc.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Optimization.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.Razor.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Razor.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Newtonsoft.Json.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Antlr3.Runtime.pdb
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.SqlServer.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csprojAssemblyReference.cache
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csproj.CoreCompileInputs.cache
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csproj.CopyComplete
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.pdb
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\DataLibrary.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Dapper.dll
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\DataLibrary.pdb
+C:\Users\vasilis\source\repos\GamesHorizon\GamesHorizon\bin\Dapper.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.dll.config
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\GamesHorizon.pdb
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.exe
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.exe.config
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csc.rsp
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.exe
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.exe.config
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\csi.rsp
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.AppContext.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Console.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.Compression.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Net.Http.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.ValueTuple.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.exe
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.exe.config
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\vbc.rsp
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\VBCSCompiler.exe
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Antlr3.Runtime.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\DataLibrary.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.SqlServer.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Newtonsoft.Json.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Owin.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Helpers.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Mvc.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Optimization.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Razor.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Razor.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\WebGrease.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Dapper.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\DataLibrary.pdb
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Helpers.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Mvc.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Optimization.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.Razor.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\System.Web.WebPages.Razor.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Newtonsoft.Json.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Antlr3.Runtime.pdb
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\EntityFramework.SqlServer.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\bin\Dapper.xml
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csprojAssemblyReference.cache
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csproj.CoreCompileInputs.cache
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.csproj.CopyComplete
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.dll
+C:\Users\tsimp\Documents\Visual Studio 2019\repos\GamesHorizon\GamesHorizon\obj\Debug\GamesHorizon.pdb

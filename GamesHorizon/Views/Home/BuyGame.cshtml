@@ -1,0 +1,57 @@
+﻿@model GamesHorizon.Models.Game
+
+@{
+    ViewBag.Title = "BuyGame";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>BuyGame</h2>
+
+<h3>Game Details</h3>
+<div>
+    <h4>Game</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedBy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GameConsole)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GameConsole)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Buy" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "BrowseGames")
+        </div>
+    }
+</div>
